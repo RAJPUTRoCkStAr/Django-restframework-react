@@ -1,0 +1,1 @@
+yo create frontend write npm create vite@latest folder name --- --template react
